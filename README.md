@@ -22,11 +22,11 @@ After loading the datasets, it was time to make the data modeling. It was used t
 
 Said that, all calculations and analysys were carried out and then the dashboards were made. There are three dashboards, as shown below.
 
-- The first one shows a revenue analysis. We can look at how the revenue is distributed across product categories, for month and for costumer locations. The distribution of revenue among the months is splitted in the price of the product and the freight value.
+- The first one shows a revenue analysis. We can look at how the revenue is distributed across product categories, for month and for costumer locations. The distribution of revenue among the months is splitted by the price of the product and the freight value.
 - The second one shows an analysis of the revenue by the payment method and by the supplier. 
 - The third one shows details about the costumer satisfaction. We can look at the distribution of the scores given by costumers and see how they vary by consumers locations. There's still a donut chart classifying the satisfaction as "Good" or "Bad". "Good" means a score of 4 or 5 and "Bad" means a score below 4.
 
 All of the dashboards can be analyzed by year, that is 2016, 2017 or 2018. All of them also have tool tips, that can help people to analyze the charts. 
 
-I think all the goals of this project were hit, as we can get a great overview of Olist revenue sources, paymet methods, costumers, and others, and as the dashboards certainly can help the business managers to undertand the business directions. The correct use of the dashboards can also help them with decision making.
+I think all the goals of this project were hit, as we can get a great overview of Olist revenue sources, paymet methods, costumers, and others, and as the dashboards certainly can help the business managers to understand the business directions. The correct use of the dashboards can also help them on decision making.
 
